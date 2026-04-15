@@ -16,7 +16,7 @@ A simple command-line banking system built with Go.
 ## ▶️ How to Run
 1. Clone the repo
 2. Run:
-   go run main.go
+   go run bank.go
 
 ## 📌 Future Improvements
 - Add transaction history
