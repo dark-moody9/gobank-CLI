@@ -124,6 +124,5 @@ func main() {
 					break
 				}*/
 	}
-	fmt.Println("Thanks for Visiting!")
 
 }
